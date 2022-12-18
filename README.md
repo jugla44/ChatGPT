@@ -1,8 +1,8 @@
 # ChatGPT
 
 # Instructions
-获取你的openai的token
-https://beta.openai.com/account/api-keys，设置环境变量OpenAiToken为你的token
+OpenAI API Key
+https://beta.openai.com/account/api-keys
 
 安装依赖包 pip install -r requirements.txt
 
